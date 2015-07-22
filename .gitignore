@@ -1,7 +1,7 @@
-valgrind-3.10.1
-
 *
 !*.*
+
+valgrind-3.10.1
 
 # Object files
 *.o
