@@ -1,6 +1,7 @@
 valgrind-3.10.1
-ex1
-ex2
+
+*
+!*.*
 
 # Object files
 *.o
@@ -34,3 +35,4 @@ ex2
 
 # Debug files
 *.dSYM/
+
